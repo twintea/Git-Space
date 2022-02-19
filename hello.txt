@@ -14,3 +14,4 @@ hello,git! hello,world!hot-fix test
 11111111111111111111111111111111111
 update by other
 update test
+ssh push test
